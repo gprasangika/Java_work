@@ -10,18 +10,15 @@ class Car {
     }
 
     Car() {
-
     }
 
     Car(String brand, double cost) {
         this.brand = brand;
         this.cost = cost;
-
     }
 
     Car (String brand) {
         this.brand = brand;
-
     }
 
 }
