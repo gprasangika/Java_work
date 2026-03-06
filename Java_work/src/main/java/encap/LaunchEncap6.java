@@ -1,3 +1,5 @@
+package encap;
+
 class Telusko {
     private String course;
     private double price;

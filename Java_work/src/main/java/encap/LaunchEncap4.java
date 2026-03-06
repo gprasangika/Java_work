@@ -1,3 +1,5 @@
+package encap;
+
 class Employee2 {
     private int id;
     private String name;

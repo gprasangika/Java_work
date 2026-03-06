@@ -1,21 +1,35 @@
-class Alpha {
+class Telusko {
+    void course() {
 
-    void show() {
-
-        System.out.println("Telusko has both live and recorded course");
+        System.out.println("visit telusko.com");
     }
 }
 
-class Beta extends Alpha {
+
+
+// parent/base/super class
+class Alpha extends Telusko {
+
+    int age;
+
+    private String name;
 
     void disp() {
         System.out.println("This is Live Java SpringBoot classes");
     }
+
 }
 
+// child/derived/sub class
+class Beta extends Alpha {
 
+    void show() {
+        age = 20;
+//        name = "Telusko";
+        System.out.println(age);
+    }
 
-
+}
 
 
 
@@ -27,5 +41,7 @@ public class LaunchInheritance1 {
 
         b.disp();
         b.show();
+        b.course();
+        System.out.println(b.toString());
     }
 }

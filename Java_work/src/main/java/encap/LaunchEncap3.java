@@ -1,3 +1,5 @@
+package encap;
+
 class Alien {
 
     private int id;

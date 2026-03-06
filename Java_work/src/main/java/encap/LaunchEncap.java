@@ -1,3 +1,5 @@
+package encap;
+
 class Employee {
 
    private int age;
