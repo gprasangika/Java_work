@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0ddaa96e-6ab5-4c8a-8c28-86b3ff8c2c43" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../DemoSpringProject/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DemoSpringProject/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DemoSpringProject/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DemoSpringProject/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DemoSpringProject/src/main/java/org/gayani/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DemoSpringProject/src/main/java/org/gayani/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DemoSpringProject/src/main/java/org/gayani/HelloEndpoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DemoSpringProject/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DemoSpringProject/src/main/resources/log4jdbc.log4j2.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DemoSpringProject/src/main/resources/logback.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DemoSpringProject/src/test/java/org/gayani/HelloEndpointTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DemoSpringProject/src/test/resources/.gitkeep" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="5" />
+    <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3BLJt1iI33YorkE4kRfK0TYRr82" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.All in JavaProj.executor": "Run",
+    "JUnit.org.gayani.sampleApp in JavaProj.executor": "Debug",
+    "Maven.JavaProj [test].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecapSpentCounter">
+    <option name="endsOfQuotaMs" value="1776837624132" />
+    <option name="spentUsd" value="0.00362655" />
+  </component>
+  <component name="RecapUselessUpdatesCounter">
+    <option name="suspendCountdown" value="6" />
+  </component>
+  <component name="RunManager" selected="JUnit.All in JavaProj">
+    <configuration name="All in JavaProj" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaProj" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.gayani.sampleApp in JavaProj" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaProj" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.gayani.sampleApp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.gayani.sampleApp" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JavaProj" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="cmdOptions" />
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="multimoduleDir" />
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="projectsCmdOptionValues">
+              <list />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.All in JavaProj" />
+      <item itemvalue="JUnit.org.gayani.sampleApp in JavaProj" />
+      <item itemvalue="Maven.JavaProj" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in JavaProj" />
+        <item itemvalue="JUnit.org.gayani.sampleApp in JavaProj" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.32098.37" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.32098.37" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0ddaa96e-6ab5-4c8a-8c28-86b3ff8c2c43" name="Changes" comment="" />
+      <created>1774262629079</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1774262629079</updated>
+      <workItem from="1774262633213" duration="3266000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
