@@ -21,4 +21,5 @@ public class Mynthra {
     public String orderDelivery(double amount) {
         return delivery.delivered(amount);
     }
+
 }
