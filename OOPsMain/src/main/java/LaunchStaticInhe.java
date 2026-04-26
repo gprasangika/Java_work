@@ -29,7 +29,7 @@ class Deer extends Animal1 {
 public class LaunchStaticInhe {
 
     public static void main(String[] args) {
-        Deer d = new Deer();
+        Animal1 d = new Deer();
 //        d.show();
 //        System.out.println(Deer.age);
         d.disp();

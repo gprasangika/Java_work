@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 // extending Exception class needs to define throws for the method throwing the exception and handle exception in caller or propogate. Compiler checks.
 // extending RuntimeException class does not need to define throws for the method throwing the exception and handle exception in caller or propogate. compiler does not check
-class InvalidCustomerException extends Exception {
+class InvalidCustomerException extends RuntimeException {
 
 
     public InvalidCustomerException(String message) {
@@ -27,7 +27,7 @@ class ATM {
         pw = sc.nextInt();
     }
 
-    public void verify() throws InvalidCustomerException{
+    public void verify() {
         if (an ==acc_num && pw == passwd)
         {
             System.out.println("Collect your cash");

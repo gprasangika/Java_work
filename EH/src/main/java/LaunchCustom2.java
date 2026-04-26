@@ -39,7 +39,7 @@ class RTO {
             a.verify();
         }
         catch (InvalidAgeExeption e) {
-            System.out.println(e.getMessage());
+            System.out.println(e.getMessage());   // this accesses private member of the class Throwable. as getMessage() is not overridden, so calls getMessage() where bytecode is in Throwable class, it accesses the defaultMessage private variable in Throwable class
         }
 
     }
