@@ -26,9 +26,9 @@ interface Telusko3 {
 class AI implements Telusko3 {
 
     // default methods are inherited in implementation classes and can be overridden
-//    public void course() {
-//        System.out.println("Telusko learning 2");
-//    }
+    public void course() {
+        System.out.println("Telusko learning 2");
+    }
 
 }
 
