@@ -10,6 +10,7 @@ public class StreamDemo {
 
         List<Integer> nums = List.of(4,6,7,5,2,9,2);
 
+
 //        Predicate<Integer> isOdd = new Predicate<Integer>() {
 //
 //            @Override
@@ -17,7 +18,7 @@ public class StreamDemo {
 //                return n % 2 != 0;
 //            }
 //        };
-//        StreamSupport.
+
 //        Stream<Integer> stream1 = nums.stream(); // stream() in Collection interface inherited in List interface // returns ReferencePipeline.Head type object - grand parent Stream interface
 //
 //        // filter() and map() are intermediate operations // intermediate operations are not executed if no terminal operation later
