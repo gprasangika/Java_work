@@ -21,7 +21,7 @@ public class LaunchConditional {
         int n2 = 10;
         int n3 = 15;
 
-        int maxNum = (n1>n2)? (n1>n3)? n1 : n3 : (n2>n3)? n2 : n3;
+        int maxNum = (n1>n2)? (n1>n3)? n1 : n3 : (n2>n3)? n2 : n3; // Nested/chained ternary operator
 
         System.out.println(maxNum);
     }

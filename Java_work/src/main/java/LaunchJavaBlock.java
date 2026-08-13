@@ -5,6 +5,7 @@ class Car {
 
     static int count;
 
+    //Java block runs when object is created, before constructor calls
     {
         count++;
     }

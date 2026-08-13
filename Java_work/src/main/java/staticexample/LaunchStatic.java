@@ -40,3 +40,6 @@ public class LaunchStatic {
         Demo d1 = new Demo();
     }
 }
+
+// class loading - static block
+// before constructor - java block
