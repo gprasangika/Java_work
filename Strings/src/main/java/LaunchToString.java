@@ -12,7 +12,7 @@ class TeluskoAI {
 
     @Override
     public String toString() {
-        return "TeluskoAI [id=" + id + ", course=" + course + "]";
+        return "TeluskoAI [id=" + id + ", course=" + course + "]";  // This is the toString method that returns a string representation of the object. inherited from the Object class. It is overridden to provide a custom string representation of the TeluskoAI object.
     }
 
     public int getId() {

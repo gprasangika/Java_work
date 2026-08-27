@@ -1,6 +1,7 @@
 // in an interface, all the methods are public and abstract by default
-// an interface can extend another interface
+// an interface can extend one or multiple interfaces
 // an interface cannot implement another interface
+// variables in an interface are public static final
 
 interface Calculator {
 

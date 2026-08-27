@@ -6,7 +6,7 @@ public class LaunchString1 {
 //        String str2 = "Telusko";
 //
 //        System.out.println(str1 == str2); // comparing references. in String constant pool - can't keep duplicate values
-//        System.out.println(str1.equals(str2)); // compare values. in object class, equals() is comparing refs. in String class the method has been overriden to compare values
+//        System.out.println(str1.equals(str2)); // compare values. in Object class, equals() is comparing refs. in String class the method has been overriden to compare values
 //        System.out.println(str1.equalsIgnoreCase(str2)); // compare values ignoring case
 
 //        String str1 = new String("telusko");

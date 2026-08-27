@@ -8,12 +8,12 @@ interface Telusko3 {
     }
 
 
-    // static methods are not inherited in implementation classes. can be invoked in default methods in the class
+    // static methods are not inherited in implementation classes. can be invoked in default methods in the interface
     static void ai() {
         System.out.println("ai static method of interface");
     }
 
-    // private methods are not inherited in implementation classes. can be invoked in default methods in the class
+    // private methods are not inherited in implementation classes. can be invoked in default methods in the interface
     private void sd() {
         System.out.println("system design course");
     }

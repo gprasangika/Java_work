@@ -62,13 +62,14 @@ public class LaunchInheritance4 {
 //        (1) should not reduce the visibility of the overridden method in child class
 //        (2) should not change return type of the overridden method in child class
 //        (3) can change the return type of the overridden method in child class, only if child class method return type is co-variant of parent class method return type. co varient means child of parent.
-//        (4) can't change type parameters for the overridden method in child class
+//        (4) can't change type parameters for the overridden method in child class. iF changed, they will become specialized methods.
 
 //polymorphism
 //
 //        (1) should have a reference of parent class
 //        (2) should have method overridden
 //
-//        abstract - class, method (not constructor)
+//        abstract - class, method (not constructor, variable)
 //
 //    abstract means yet to be completed. abstract methods have no body. If class ha abstract methods, then class should be abstract. Can't instantiate from abstract classes.
+// abstract and final don't go together
